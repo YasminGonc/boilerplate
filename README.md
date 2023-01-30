@@ -3,7 +3,7 @@
 Boilerplate created during React Advanced course.
 
 ## Applied technologies
--TypeScript;
+- TypeScript;
 - NextJS;
 - Styled Components;
 - Storybook;
